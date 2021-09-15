@@ -1,5 +1,4 @@
 - 👋 Olá, sou o Ivam, https://github.com/ivam1973
-- 👀 Estou interessado em expor meus projetos e contribuir no github- 
 - 📫 Como chegar até mim: https://www.facebook.com/ivam2001
 - 🌱 Terminarei o curso de Técnico em Desenvolvimento de Sistemas em setembro de 2022. 
 - 🌱 E quero desde já colocar o conhecimento aprendido no curso em prática.
