@@ -6,4 +6,4 @@
 - 🌱 Tenho conhecimento em Javascript, Html, CSS, Java, Nodejs, GitHub, SQL, MySql, PhpMyAdmin, Joomla, Xampp. 
 - 🌱 Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.
 - 🌱 Gosto de desenvolver tanto no front-end como no back-end. 
-- 🌱 Gosto de estudar novas tecnologias. Atualmente estou estudando Nodejs e Javascript mais a fundo.
+- 🌱 Gosto de estudar novas tecnologias. Atualmente estou estudando Nodejs e Javascript e Android Studio.
