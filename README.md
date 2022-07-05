@@ -5,7 +5,7 @@
 - 🌱 Terminarei o curso de Técnico em Desenvolvimento de Sistemas em setembro de 2022. 
 - 🌱 E quero desde já colocar o conhecimento aprendido no curso em prática.
 - 🌱 Trabalhei como Atendente de Suporte Técnico em TI. Também fazia a instalação e pequenas manutenções no software em questão (ERP para pequenos varejistas).
-- 🌱 Tenho conhecimento básico em: Javascript, Html, CSS.
+- 🌱 Tenho conhecimento básico em: Javascript, Html, CSS, Java, Java Web, Springboot, Thymeleaf, Bootstrap.
 - 🌱 Também conheço: Java, Nodejs, GitHub, SQL, MySql, PhpMyAdmin, Joomla, Xampp, Android Studio. 
 - 🌱 Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.
 - 🌱 Gosto de desenvolver tanto no front-end como no back-end e de estudar novas tecnologias. 
