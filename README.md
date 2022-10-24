@@ -1,11 +1,8 @@
-- 👋 Olá, sou o Ivam, https://github.com/ivam1973
-- 📫 Como chegar até mim: 
-- 📫 https://www.facebook.com/ivam2001
-- 📫 https://www.linkedin.com/in/ivam1973/
-- 🌱 Terminarei o curso de Técnico em Desenvolvimento de Sistemas em setembro de 2022. 
-- 🌱 E quero desde já colocar o conhecimento aprendido no curso em prática.
-- 🌱 Trabalhei como Atendente de Suporte Técnico em TI. Também fazia a instalação e pequenas manutenções no software em questão (ERP para pequenos varejistas).
-- 🌱 Tenho conhecimento básico em: Javascript, Html, CSS, Java, Java Web, Springboot, Thymeleaf, Bootstrap.
-- 🌱 Também conheço: Java, Nodejs, GitHub, SQL, MySql, PhpMyAdmin, Joomla, Xampp, Android Studio. 
-- 🌱 Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.
-- 🌱 Gosto de desenvolver tanto no front-end como no back-end e de estudar novas tecnologias. 
+Olá, sou o Ivam, https://github.com/ivam1973
+https://www.linkedin.com/in/ivam1973/
+Me formei Técnico em Desenvolvimento de Sistemas, em Outubro de 2022, pelo Senai/SC - Centro de Educação Digital.
+Quero continuar a colocar em prática o conhecimento adquirido.
+Trabalhei como Atendente de Suporte em TI, e fazia também a instalação e pequenas manutenções no sistema em questão (ERP para pequenas empresas).
+Tenho conhecimento Júnior em Javascript, HTML, CSS, Java, Java Web, Springboot, Thymeleaf, Bootstrap, SQL, MySql.
+Gosto de desenvolver tanto no front como no back-end e de estudar novas tecnologias.
+No momento, me dedico ao HTML, CSS e Javascript.
